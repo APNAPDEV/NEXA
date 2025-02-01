@@ -4,3 +4,5 @@ Don't worry if Windows Defender detects it like a virus, it's because this code 
 
 ⚠️
 This code is a new beta it is normal to find errors and bugs!!!
+
+---Nexa X Ghost is in development---
