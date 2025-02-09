@@ -7,4 +7,4 @@ This codes are made by a student!!!
 >This code is a new beta it is normal to find errors and bugs!!!
 
 
-![](https://github.com/APNAPDEV/NEXA/blob/main/Nexa.png)
+![](https://github.com/APNAPDEV/NEXA/blob/main/Nexa_png)
