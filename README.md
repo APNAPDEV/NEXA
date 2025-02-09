@@ -7,4 +7,4 @@ This codes are made by a student!!!
 >This code is a new beta it is normal to find errors and bugs!!!
 
 
-![](https://github.com/APNAPDEV/NEXA/blob/main/Nexa.py%20-%20Sin%20t%C3%ADtulo%20(%C3%A1rea%20de%20trabajo)%20-%20Visual%20Studio%20Code%2008_02_2025%2023_31_16.png)
+![](https://github.com/APNAPDEV/NEXA/blob/main/Nexa.png)
