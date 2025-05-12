@@ -7,7 +7,3 @@ This codes are made by a student!!!
 
 >[!NOTE]
 >This code is a new beta it is normal to find errors and bugs!!!
-
->The Nebula edition only has one change from Nexa at the moment (Ip_scanner to Smart IP)
-
-
