@@ -2,15 +2,17 @@ This codes are made by a student!!!
 
 >[!IMPORTANT]
 >Don't worry if Windows Defender detects it like a virus, it's because this code uses PowerShell. You can use it safely, thanks for downloading!!!
+
+>[!IMPORTANT]
 >No pasa nada si windows lo detecta como virus o si salta windows protegio su pc es normal porque es un programa externo 
 
 NEXA_ES = Versión en español.
 
 NEXA_EN = English version.
+ 
 
-![Image Alt](https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png)
-<img src="https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png" alt="NEXA Logo" width="150"/>
-
+<!--![Image Alt](https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png) -->
+<img src="https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png" alt="NEXA Logo" width="450"/>
 
 >[!NOTE]
 >- Termita: Uninstall apps from your system.
