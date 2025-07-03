@@ -2,8 +2,6 @@ This codes are made by a student!!!
 
 >[!IMPORTANT]
 >Don't worry if Windows Defender detects it like a virus, it's because this code uses PowerShell. You can use it safely, thanks for downloading!!!
-
->[!IMPORTANT]
 >No pasa nada si windows lo detecta como virus o si salta windows protegio su pc es normal porque es un programa externo 
 
 NEXA_ES = Versión en español.
@@ -11,7 +9,7 @@ NEXA_ES = Versión en español.
 NEXA_EN = English version.
 
 ![Image Alt](https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png)
-
+<img src="https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png" alt="NEXA Logo" width="150"/>
 
 
 >[!NOTE]
@@ -37,3 +35,10 @@ NEXA_EN = English version.
 >- Internal network password: Escanea y muestras datos de redes inalámbricas
 >- IP_manager: Lista información de tu ip y te permite reasignarte otra
 >- Shutdown/restart: Apaga o reinicia tu dispositivo 
+
+Copyright Notice
+This project is free to use, modify, and share for personal or educational purposes. However, if you use or display this project in any public medium (such as websites, presentations, videos, or publications), please provide proper attribution to the original author.
+
+Unauthorized claims of ownership or use without credit are not permitted.
+
+Thank you for respecting the creator's work!
