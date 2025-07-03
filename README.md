@@ -2,6 +2,8 @@ This codes are made by a student!!!
 
 >[!IMPORTANT]
 >Don't worry if Windows Defender detects it like a virus, it's because this code uses PowerShell. You can use it safely, thanks for downloading!!!
+
+>[!IMPORTANT]
 >No pasa nada si windows lo detecta como virus o si salta windows protegio su pc es normal porque es un programa externo 
 
 NEXA_ES = Versión en español.
