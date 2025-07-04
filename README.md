@@ -30,7 +30,7 @@ NEXA_EN = English version.
 >- Termita: Desinstala programas de tu sistema.
 >- TracerDriver: Lista los drivers activos en tu dispositivo.
 >- Smart_IP: Escanea y muestra que tipo de dispositivos estan en tu red.
->- Hash_checker: Verifica la integridad de archivos comparando su hash.
+>- Password_cracker: ---NO por el momento---
 >- Port_Scanner: Escanea puertos abiertos en una dirección IP.
 >- Network_pinger: Mide la latencia de un host remoto.
 >- Active_connections: Muestra las conexiones activas en tu red.
